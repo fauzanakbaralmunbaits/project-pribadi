@@ -1,3 +1,3 @@
 # Framework Laravel
 
-Project latihan sekaligus buat web jadi test.
+Project latihan sekaligus buat web jadi.
